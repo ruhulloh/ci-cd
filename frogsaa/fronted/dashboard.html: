@@ -38,7 +38,7 @@
                 <tr>
                     <th>Sarlavha</th>
                     <th>Qiymat</th>
-                    <th>Vaqti qancha</th>
+                    <th>Vaqti</th>
                 </tr>
             </thead>
             <tbody id="statistic-body">
